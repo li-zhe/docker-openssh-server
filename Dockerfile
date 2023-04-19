@@ -36,4 +36,3 @@ COPY /root /
 
 EXPOSE 2222
 
-VOLUME /config
